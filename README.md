@@ -2,7 +2,7 @@
 - 👀 I’m interested in all the things
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate with you
-- 📫 Trust me privately
+- 📫 I've always been here
 
 <!---
 Byebye886/Byebye886 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
